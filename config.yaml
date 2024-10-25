@@ -66,7 +66,7 @@ extensions:
   - blynk:
       plugin: Blynk
       server: blynk.cloud
-      token: vRlSNd6zTg2XxD7PQ-YCcApIeeo-tnTu
+      token: ************************
 
   - web:
       plugin: SimpleWebView
